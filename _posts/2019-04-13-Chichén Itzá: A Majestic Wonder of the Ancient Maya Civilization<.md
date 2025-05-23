@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Explore the ancient Mayan city of Chichén Itzá in Mexico. Discover its history, architectural marvels like El Castillo, and why it's a UNESCO World Heritage Site.">
-  <title>Chichén Itzá: A Majestic Wonder of the Ancient Maya Civilization</title>
 </head>
 <body>
 
